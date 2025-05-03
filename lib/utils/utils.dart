@@ -37,7 +37,7 @@ class StaticUtils {
   ];
 
   static const List<String> socialLinks = [
-    "https://www.linkedin.com/in/tejasanghan/",
+    "https://www.linkedin.com/",
     "https://github.com/tejasanghan",
   ];
 
